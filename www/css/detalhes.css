@@ -80,3 +80,71 @@
     color: var(--branco);
     border: none;
 }
+.btn-rates {
+    border-radius: 20px;
+    border: 1px solid #cbcbcb;
+    padding: 5px 10px;
+    background: none;
+    margin-right: 5px;
+    width: 80px;
+    font-size: 16px;
+   
+}
+.btn-rates i {
+    font-size: 20px;
+}
+
+.ri-thumb-up-fill {
+    color: var(--verde);
+
+}
+
+.color-gray {
+    color: gray;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, 
+td {
+    padding: 1px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+}
+th {
+    background-color: #ddd;
+}
+
+.flex-40{
+    flex: 40%;
+}
+
+.flex-60{
+    flex: 60%;
+    border: none;   
+}
+.riscado {
+    text-decoration: line-through;
+}
+
+.princing {
+    font-weight: 800;
+    font-size: 22px;
+}
+
+.add-cart {
+    width: 90%;
+    height: 50px;
+    border-radius: 15px;
+    border: none;
+    background: var(--verde);
+    color: var(--branco);
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+}
