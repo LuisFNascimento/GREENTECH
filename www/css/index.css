@@ -176,6 +176,12 @@ input[type="text"]{
 
   }
 
+  .filter-btn.active {
+    background: var(--verde);
+    color: var(--branco);
+    border: none;
+  }
+
   .row{
     flex-wrap: wrap;
     flex-direction: row;
