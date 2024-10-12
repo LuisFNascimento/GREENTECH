@@ -41,6 +41,13 @@ fetch("js/backend.json")
 
         $("#produtos").append(produtoHTML);
       });
+
+      $(".item").on('click', function () {
+          var id = $(this).attr('data-id');
+          localStorage.setItem('detalhe', id);
+          app.views.main.router.navigate('/detalhe/');
+      })
+
     }, 1500);
   })
   .catch((error) => console.error("Erro ao fazer fetch dos dados: " + error));
