@@ -137,7 +137,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 30px;
+    width: 40px;
     height: 30px;
     color: var(--preto);
     font-size: 20px;
@@ -151,7 +151,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 30px;
+    width: 40px;
     height: 30px;
     color: var(--verde);
     font-size: 20px;
@@ -161,7 +161,7 @@
 }
 
 .qtd-item {
-    width: 30px;
+    width: 40px;
     text-align: center;
     background: var(--branco) !important;
 }
