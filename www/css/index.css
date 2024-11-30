@@ -62,8 +62,8 @@ body{
 }
 
 .btn-cart{
-    width: 40px;
-    height: 40px;
+    width: 60px;
+    height: 60px;
     background: var(--branco);
     display: flex;
     justify-content: center;
@@ -71,15 +71,15 @@ body{
     margin-right: 5%;
     border-radius: 50%;
     border: 1px solid var(--gelo);
-    font-size: 24px;
+    font-size: 30px;
     color: var(--preto);
 }
 
 .btn-cart::before{
     content: attr(data-count);
     background: var(--verde);
-    width: 17px;
-    height: 17px;
+    width: 18px;
+    height: 18px;
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -87,7 +87,7 @@ body{
     font-size: 12px;
     color: var(--branco);
     position: absolute;
-    top: 5px;
+    top: 8px;
     right: 0px;
     margin-right: 5%;
 }
@@ -109,7 +109,7 @@ form {
     position: relative;
 }
 
-input[type="text"]{
+#search {
     width: 90%;
     height: 45%;
     border-radius: 10px;
