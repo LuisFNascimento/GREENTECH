@@ -178,8 +178,10 @@
 
 #totais {
     flex-direction: column;
+
 }
 
 .bd-bottom {
     border-bottom: 1px solid var(--gelo);
+
 }
