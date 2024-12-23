@@ -67,6 +67,6 @@ O código JavaScript é responsável pela:
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais informações.
 
-
+ </br>
+ 
 ###### * Projeto criado no curso Programação Web.
-https://luisfnascimento.github.io/stylebooks/
