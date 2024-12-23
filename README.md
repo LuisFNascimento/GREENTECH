@@ -1,5 +1,7 @@
 # GreenTech E-commerce Application
 
+[![NPM](https://img.shields.io/npm/l/react)]
+
 Este projeto é uma aplicação de e-commerce mobile-first, construída utilizando o **Framework7** para criação de um design responsivo, com navegação entre abas, carrossel de banners, categorias de produtos e integração com o carrinho de compras. A aplicação também é projetada para ser utilizada como uma Progressive Web App (PWA).
 
 ## Estrutura do Projeto
@@ -58,3 +60,5 @@ O código JavaScript é responsável pela:
 
 2. **Execução Local**:
    Para visualizar o projeto em seu navegador, basta abrir o arquivo `index.html` após ter configurado o ambiente de desenvolvimento.
+
+   
