@@ -1,6 +1,6 @@
 # GreenTech E-commerce Application
 
-[![NPM](https://img.shields.io/npm/l/react)]
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/LuisFNascimento/GREENTECH/blob/main/LICENSE)
 
 Este projeto é uma aplicação de e-commerce mobile-first, construída utilizando o **Framework7** para criação de um design responsivo, com navegação entre abas, carrossel de banners, categorias de produtos e integração com o carrinho de compras. A aplicação também é projetada para ser utilizada como uma Progressive Web App (PWA).
 
