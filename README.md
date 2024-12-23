@@ -61,4 +61,12 @@ O código JavaScript é responsável pela:
 2. **Execução Local**:
    Para visualizar o projeto em seu navegador, basta abrir o arquivo `index.html` após ter configurado o ambiente de desenvolvimento.
 
-   
+## Licença
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/LuisFNascimento/GREENTECH/blob/main/LICENSE)
+
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais informações.
+
+
+###### * Projeto criado no curso Programação Web.
+https://luisfnascimento.github.io/stylebooks/
