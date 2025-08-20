@@ -94,8 +94,8 @@ var app = new Framework7({
 	  }
     },
     {
-      path: '/link2/',
-      url: 'link2.html',
+      path: '/busca/',
+      url: 'busca.html',
       animate: false,
 	  on: {
 		pageBeforeIn: function (event, page) {
@@ -113,8 +113,8 @@ var app = new Framework7({
 	  }
     },
     {
-      path: '/link3/',
-      url: 'link3.html',
+      path: '/favoritos/',
+      url: 'favoritos.html',
       animate: false,
 	  on: {
 		pageBeforeIn: function (event, page) {
@@ -132,8 +132,8 @@ var app = new Framework7({
 	  }
     },
     {
-      path: '/link4/',
-      url: 'link4.html',
+      path: '/usuario/',
+      url: 'usuario.html',
       animate: false,
 	  on: {
 		pageBeforeIn: function (event, page) {
